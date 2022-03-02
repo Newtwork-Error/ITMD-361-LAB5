@@ -21,3 +21,10 @@ th {
   color: #ffffff;
   border-collapse: collapse;
 }
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  font-size: 70px;
+  font-family: cursive;
+}
