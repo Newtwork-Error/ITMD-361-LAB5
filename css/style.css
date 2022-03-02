@@ -2,11 +2,22 @@ body {
   background-image: url('../images/Space_background.jpg');
 }
 
+tr {
+  padding: 10px;
+}
+
 td {
   text-align: center;
+  padding: 5px 10px;
+  border: 1px solid white;
+}
+
+th {
+  border: 1px solid white;
 }
 
 #main-table {
   margin: 60px auto;
   color: #ffffff;
+  border-collapse: collapse;
 }
